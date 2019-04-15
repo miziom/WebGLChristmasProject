@@ -6,4 +6,4 @@ Technologies used: HTML, JavaScript, WebGL framework
 
 How use?
 1. Clone repository.
-2. MateuszMizioWebGL file open in browser. To see/change code, open as Visual Studio.
+2. MateuszMizioWebGL file open in web browser. To see/change code, open as Visual Studio.
